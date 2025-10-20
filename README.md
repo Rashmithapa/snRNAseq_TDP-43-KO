@@ -1,5 +1,6 @@
 # snRNAseq_TDP-43-KO
-Single-nucleus RNA Sequencing Reveals GABAergic Vulnerability and Neuroinflammation Driven by Loss of TDP-43
+Title: Single-nucleus RNA Sequencing Reveals GABAergic Vulnerability and Reactive Gliosis Driven by Loss of TDP-43
+Link to the data in GEO database (GEO: GSE309401): https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE309401
 R version 4.2.3 (2023-03-15)
 Platform: x86_64-apple-darwin17.0 (64-bit)
 Running under: macOS 14.5
